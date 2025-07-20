@@ -26,7 +26,9 @@ Most of my core contributions live in **private repos** on my organization’s G
 - Live task management tools synced with Redmine
 - Secure location tracking and productivity monitoring for sales teams
 
-> These don’t show up in my GitHub contribution graph due to company privacy — happy to walk through them in more detail if you’re curious!
+> Most of my professional code lives on a separate GitHub account used exclusively for work:
+👉 [falendra-kosh](https://github.com/falendra-kosh)
+
 
 ---
 
