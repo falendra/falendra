@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Falendra Bandhe
+# 👋 Hi, I'm Falendra Kumar Bandhe
 
-I’m a full-stack product engineer passionate about crafting scalable, user-centric systems. As a **Founding Engineer at KOSH**, I’ve built robust fintech platforms and real-time features used by 20,00,000+ users. I'm equally at home building pixel-perfect UIs as I am designing secure, multi-tenant backend architecture.
+Senior Full-Stack Engineer with 6+ years of experience building scalable, high-performance backend systems and user-centric frontend applications. Specialized in Python/Django backend development, microservices, asynchronous processing, PostgreSQL, and AWS deployments. Equally strong in React Native and React.js, having delivered production-grade mobile and web applications. Proven track record of leading and mentoring teams of 15+ engineers while owning services end-to-end, from architecture and design to development, deployment, and observability, while driving technical decisions that improve system scalability, reliability, and user experience.
 
 ---
 
 ## ⚡ Quick Highlights
 
-- 🚀 5+ years building end-to-end products in fast-paced startup environments
+- 🚀 6+ years building end-to-end products in fast-paced startup environments
 - 👨‍🔧 Lead a team of 15 engineers delivering high-impact fintech features
 - 🧠 Architect behind a scalable chat platform rivaling WhatsApp in features
 - 🔁 Built multi-tenant SaaS systems, in-app job applications, recovery workflows, and CRM tools
