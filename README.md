@@ -45,7 +45,7 @@ Most of my core contributions live in **private repos** on my organization’s G
 
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/falendra-bandhe)
 - 📨 falendra.bandhe@gmail.com
-- 🌐 [Portfolio (coming soon)](#)
+- 🌐 [Portfolio](https://falendra.dev)
 
 ---
 
