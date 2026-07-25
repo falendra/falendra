@@ -1,52 +1,104 @@
 # 👋 Hi, I'm Falendra Kumar Bandhe
 
-Senior Full-Stack Engineer with 6+ years of experience building scalable, high-performance backend systems and user-centric frontend applications. Specialized in Python/Django backend development, microservices, asynchronous processing, PostgreSQL, and AWS deployments. Equally strong in React Native and React.js, having delivered production-grade mobile and web applications. Proven track record of leading and mentoring teams of 15+ engineers while owning services end-to-end, from architecture and design to development, deployment, and observability, while driving technical decisions that improve system scalability, reliability, and user experience.
+Backend & Distributed Systems Engineer with nearly **7 years of
+experience** building scalable backend platforms, event-driven systems,
+and real-time applications. I specialize in **Python, Django,
+PostgreSQL, Redis, RabbitMQ, Celery, and AWS**, with experience
+designing microservices, asynchronous workflows, and high-availability
+systems.
 
----
+I began my career building React Native and React applications, giving
+me an end-to-end understanding of product development, but today my
+primary focus is backend architecture, distributed systems, and scalable
+platform engineering.
 
-## ⚡ Quick Highlights
+------------------------------------------------------------------------
 
-- 🚀 6+ years building end-to-end products in fast-paced startup environments
-- 👨‍🔧 Lead a team of 15 engineers delivering high-impact fintech features
-- 🧠 Architect behind a scalable chat platform rivaling WhatsApp in features
-- 🔁 Built multi-tenant SaaS systems, in-app job applications, recovery workflows, and CRM tools
-- 🧭 Focused on real-time systems, app performance, and clean design patterns
+## 🚀 Highlights
 
-> 🏆 **Recognized by IndiaQuotient as part of their 30 Under 30 awardees**, celebrating talent across their portfolio companies.
+-   💻 Nearly 7 years building production software in startup
+    environments
+-   🏗️ Designed and built distributed backend systems serving millions
+    of registered users
+-   ⚡ Built real-time messaging, workflow automation, and asynchronous
+    processing platforms
+-   📈 Led and mentored a team of 15+ engineers
+-   🏆 IndiaQuotient 30 Under 30 Engineering Awardee
 
----
+------------------------------------------------------------------------
 
-## 🔐 What You Won’t See Here
+## 🛠️ Technical Focus
 
-Most of my core contributions live in **private repos** on my organization’s GitHub. These include:
+### Backend
 
-- A feature-rich real-time chat system (multimedia, URL previews, live location, mentions, pinning)
-- A smart auto-recovery engine with IVR, WhatsApp, and SMS integrations
-- Lead generation + referral systems integrated across platforms
-- Live task management tools synced with Redmine
-- Secure location tracking and productivity monitoring for sales teams
+-   Python
+-   Django
+-   PostgreSQL
+-   Redis
+-   RabbitMQ
+-   Celery
+-   REST APIs
+-   Microservices
+-   Distributed Systems
 
-> Most of my professional code lives on a separate GitHub account used exclusively for work:
-👉 [falendra-kosh](https://github.com/falendra-kosh)
+### Cloud & DevOps
 
+-   AWS
+-   Docker
+-   Jenkins
+-   Prometheus
+-   Grafana
+-   Sentry
 
----
+### Frontend (Earlier Career)
 
-## 🧑‍💼 Who I Love Working With
+-   React Native
+-   React.js
+-   TypeScript
 
-- 🏢 **Early-stage startups** looking to move fast and build things right the first time
-- 🤝 **Founders & PMs** who want to bring bold product ideas to life
-- 💻 **Open-source collaborators** who care about developer experience and system design
-- 📈 **Hiring managers** looking for an engineer who can wear multiple hats
+------------------------------------------------------------------------
 
----
+## 🔒 Professional Work
 
-## 📫 Let's Connect
+Most of the systems I've built are proprietary and live in private
+repositories. My work has included:
 
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/falendra-bandhe)
-- 📨 falendra.bandhe@gmail.com
-- 🌐 [Portfolio https://falendra.dev ](https://falendra.dev)
+-   Real-time communication platforms
+-   Distributed workflow engines
+-   Loan servicing and recovery automation
+-   Multi-tenant SaaS platforms
+-   Background location tracking
+-   Enterprise mobile applications
+-   CRM and internal operations platforms
 
----
+My professional GitHub contributions are available on my work account:
 
-_Thanks for stopping by! I'm always open to open-source collaborations, or deep tech conversations._
+👉 **https://github.com/falendra-kosh**
+
+------------------------------------------------------------------------
+
+## 🌱 Current Focus
+
+I'm currently building **Crewmint**, a workforce operations platform
+focused on:
+
+-   Offline-first location tracking
+-   Distributed backend services
+-   Geospatial processing
+-   Background synchronization
+-   React Native SDK development
+-   Event-driven architectures
+
+------------------------------------------------------------------------
+
+## 📫 Connect
+
+-   **LinkedIn:** https://linkedin.com/in/falendra-bandhe
+-   **Portfolio:** https://falendra.dev
+-   **Email:** falendra.bandhe@gmail.com
+
+------------------------------------------------------------------------
+
+*Thanks for stopping by! I'm always open to open-source collaborations
+and discussions about backend engineering, distributed systems, and
+developer tooling.*
